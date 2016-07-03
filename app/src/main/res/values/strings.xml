@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wiktionary Lens</string>
+    <string name="action_settings">Reserved</string>
+    <string-array name="catIdArray">
+        <item>English   </item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+    </string-array>
+</resources>
